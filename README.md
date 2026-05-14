@@ -65,7 +65,7 @@
 
 ---
 
-<h2 align="left">Hi 👋! My name is cryptixas1 and I'm a Game Developer from Turkey</h2>
+<h2 align="left">Hi 👋! My name is oxysanto and I'm a Game Developer from Turkey</h2>
 
 ###
 
